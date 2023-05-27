@@ -24,3 +24,5 @@ Due: 2023-6-21, 블랙보드 제출, 파일 형식은 pdf로, 코드는 부록�
 [Predict Car Prices with Machine Learning](https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/)
 
 :sparkling_heart:
+
+Leveraging the best of both Python and R
