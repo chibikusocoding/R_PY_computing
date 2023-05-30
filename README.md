@@ -26,3 +26,7 @@ Due: 2023-6-21, 블랙보드 제출, 파일 형식은 pdf로, 코드는 부록�
 :sparkling_heart:
 
 Leveraging the best of both Python and R
+
+<https://www.analyticsvidhya.com/blog/2021/07/car-price-prediction-machine-learning-vs-deep-learning/>
+
+use as much new tech as possible
